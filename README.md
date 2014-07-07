@@ -1,6 +1,9 @@
-xfbookmarks
-===========
+##晓风书签
+一个书签合辑文件，是从chrome浏览器导出的我自己的书签。包含前端开发、百科、生活、娱乐、动漫、设计等1500+网站。欢迎大家一起充实。
 
-A bookmarks collection for website , contain news skills hacker and life etc ...
+###用法：
+打开你的浏览器，然后点击收藏夹或者书签管理器，以chrome为例，点击导入-从HTML文件导入即可。
 
-####晓风书签
+详细说明见：[晓风博客-晓风书签](http://liyaodong.com/bookmarks)
+
+欢迎大家一起完善
